@@ -134,7 +134,6 @@ Begin VB.Form frmTest
       Left            =   120
       TabIndex        =   10
       Top             =   1200
-      Value           =   1  'Checked
       Width           =   2655
    End
    Begin VB.CheckBox chkEngine 
